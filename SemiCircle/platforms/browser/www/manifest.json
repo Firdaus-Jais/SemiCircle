@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "SemiCircle",
+  "short_name": "SemiCircle",
+  "version": "io.cordova.hellocordova",
+  "description": "Shell Eco Marathon's team management application.",
+  "author": "Firdaus-Jais",
+  "icons": [],
+  "start_url": "index.html"
+}
