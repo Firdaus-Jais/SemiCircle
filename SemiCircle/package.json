@@ -98,6 +98,10 @@
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
   },
+  "overrides": {
+    "lodash": ">=4.17.21",
+    "protobufjs": ">=6.11.4"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
