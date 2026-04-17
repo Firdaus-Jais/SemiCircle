@@ -3,7 +3,7 @@ import App from "./App";
 import router from "./router/routes";
 import vuetify from "./plugins/vuetify";
 import store from "./stores/store";
-import "babel-polyfill";
+import "@babel/polyfill";
 import Vuelidate from "vuelidate";
 
 import { firebaseListener } from "./plugins/firebaseConfig";
